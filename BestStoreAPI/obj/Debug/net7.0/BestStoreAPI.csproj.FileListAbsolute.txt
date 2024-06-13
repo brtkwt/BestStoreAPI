@@ -1,0 +1,168 @@
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.exe
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.deps.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.runtimeconfig.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.pdb
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.csproj.AssemblyReference.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.AssemblyInfoInputs.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.AssemblyInfo.cs
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets\msbuild.BestStoreAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.BestStoreAPI.props
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BestStoreAPI.props
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BestStoreAPI.props
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\scopedcss\bundle\BestStoreAPI.styles.css
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.csproj.CopyComplete
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\refint\BestStoreAPI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.pdb
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.genruntimeconfig.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\ref\BestStoreAPI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\SendGrid.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.staticwebassets.runtime.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Scrutor.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.staticwebassets.runtime.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.exe
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.deps.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.runtimeconfig.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\BestStoreAPI.pdb
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Scrutor.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\SendGrid.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.csproj.AssemblyReference.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.AssemblyInfoInputs.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.AssemblyInfo.cs
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets\msbuild.BestStoreAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.BestStoreAPI.props
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BestStoreAPI.props
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BestStoreAPI.props
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\scopedcss\bundle\BestStoreAPI.styles.css
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.csproj.CopyComplete
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\refint\BestStoreAPI.dll
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.pdb
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\BestStoreAPI.genruntimeconfig.cache
+C:\Users\bart\Desktop\Kursy\Build ASP.NET Web API For E-Commerce with .NET7 ( 2023 )\BestStoreAPI\BestStoreAPI\obj\Debug\net7.0\ref\BestStoreAPI.dll
